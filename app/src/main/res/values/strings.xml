@@ -1,13 +1,13 @@
 <resources>
     <string name="app_name">FJAT_SHELL</string>
-    <string name="info_fr1">ПАП - 57</string>
-    <string name="info_fr2">ПАП - 58</string>
-    <string name="info_fr4">ПАП-56</string>
-    <string name="info_fr5">ПАП-53</string>
-    <string name="info_fr6">ПАП-54</string>
-    <string name="info_fr7">ПАП-51</string>
-    <string name="info_fr8">ПАП-52</string>
-    <string name="info_fr9">ЭВМ-111</string>
-    <string name="info_fr10">ЭВМ-114</string>
-    <string name="info_fr11">ЭВМ-113</string>
+    <string name="info_fr1">ПАП-57</string>
+    <string name="info_fr2">ПАП-58</string>
+    <string name="info_fr3">ПАП-56</string>
+    <string name="info_fr4">ПАП-53</string>
+    <string name="info_fr5">ПАП-54</string>
+    <string name="info_fr6">ПАП-51</string>
+    <string name="info_fr7">ПАП-52</string>
+    <string name="info_fr8">ЭВМ-111</string>
+    <string name="info_fr9">ЭВМ-114</string>
+    <string name="info_fr10">ЭВМ-113</string>
 </resources>
