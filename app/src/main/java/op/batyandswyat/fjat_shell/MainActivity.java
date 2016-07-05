@@ -28,16 +28,16 @@ public class MainActivity extends AppCompatActivity {
                 .withActionBarDrawerToggle(true)
                 .withHeader(R.layout.drawer_header)
                 .addDrawerItems(
-                        new PrimaryDrawerItem().withName(R.string.info_fr1).withIcon(FontAwesome.Icon.faw_cog).withIdentifier(1),
-                        new PrimaryDrawerItem().withName(R.string.info_fr2).withIcon(FontAwesome.Icon.faw_cog).withIdentifier(2),
-                        new PrimaryDrawerItem().withName(R.string.info_fr3).withIcon(FontAwesome.Icon.faw_cog).withIdentifier(3),
-                        new PrimaryDrawerItem().withName(R.string.info_fr4).withIcon(FontAwesome.Icon.faw_cog).withIdentifier(4),
-                        new PrimaryDrawerItem().withName(R.string.info_fr5).withIcon(FontAwesome.Icon.faw_cog).withIdentifier(5),
-                        new PrimaryDrawerItem().withName(R.string.info_fr6).withIcon(FontAwesome.Icon.faw_cog).withIdentifier(6),
-                        new PrimaryDrawerItem().withName(R.string.info_fr7).withIcon(FontAwesome.Icon.faw_cog).withIdentifier(7),
-                        new PrimaryDrawerItem().withName(R.string.info_fr8).withIcon(FontAwesome.Icon.faw_cog).withIdentifier(8),
-                        new PrimaryDrawerItem().withName(R.string.info_fr9).withIcon(FontAwesome.Icon.faw_cog).withIdentifier(9),
-                        new PrimaryDrawerItem().withName(R.string.info_fr10).withIcon(FontAwesome.Icon.faw_cog).withIdentifier(10)
+                        new PrimaryDrawerItem().withName(R.string.info_fr1).withIdentifier(1),
+                        new PrimaryDrawerItem().withName(R.string.info_fr2).withIdentifier(2),
+                        new PrimaryDrawerItem().withName(R.string.info_fr3).withIdentifier(3),
+                        new PrimaryDrawerItem().withName(R.string.info_fr4).withIdentifier(4),
+                        new PrimaryDrawerItem().withName(R.string.info_fr5).withIdentifier(5),
+                        new PrimaryDrawerItem().withName(R.string.info_fr6).withIdentifier(6),
+                        new PrimaryDrawerItem().withName(R.string.info_fr7).withIdentifier(7),
+                        new PrimaryDrawerItem().withName(R.string.info_fr8).withIdentifier(8),
+                        new PrimaryDrawerItem().withName(R.string.info_fr9).withIdentifier(9),
+                        new PrimaryDrawerItem().withName(R.string.info_fr10).withIdentifier(10)
                 )
                 .build();
 
